@@ -1,1 +1,3 @@
-# digit_neural
+# Как запустить?
+- pip install -r requirements.txt
+- py main.py
